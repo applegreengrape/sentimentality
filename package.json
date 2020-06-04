@@ -11,7 +11,7 @@
     } 
   ],
   "dependencies" : {
-    "twitter": "0.2.5",
+    "twitter": "0.2.13",
     "Sentimental": "0.0.4",
     "nconf": "0.6.9",
     "fixed-array": "0.1.1"
